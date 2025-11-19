@@ -1,0 +1,37 @@
+|Boolean_Functions
+a => x2.IN0
+a => x4.IN0
+a => x1.IN0
+b => x4.IN1
+b => x5.IN0
+b => x3.IN0
+b => x1.IN1
+c => x3.IN1
+c => x4.IN1
+c => x5.IN1
+c => x2.IN1
+c => x1.IN1
+d => x4.IN1
+d => x5.IN1
+d => x3.IN1
+d => x2.IN1
+d => x1.IN1
+w => x9.IN0
+w => x10.IN0
+w => x8.IN0
+x => x6.IN0
+x => x8.IN1
+x => x10.IN1
+x => x9.IN1
+x => x7.IN0
+y => x8.IN1
+y => x9.IN1
+y => x10.IN1
+y => x7.IN1
+y => x6.IN1
+z => x6.IN1
+z => x7.IN1
+F1 <= F1.DB_MAX_OUTPUT_PORT_TYPE
+F2 <= F2.DB_MAX_OUTPUT_PORT_TYPE
+
+
